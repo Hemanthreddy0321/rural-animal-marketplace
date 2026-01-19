@@ -48,23 +48,6 @@ This project aims to empower rural sellers, reduce dependency on brokers, and ma
 
 🔥 Firebase Powered – Secure Firestore rules and real-time updates
 
-## 📘 What I Learned
-
- - Built a full-stack web application using React and Firebase.
-
- - Learned React fundamentals like components, hooks, routing, and state management.
-
- - Designed and managed Firestore databases (users, animals, requests, chats).
-
- - Implemented authentication & role-based access control (buyer vs seller).
-
- - Developed a request-based buying system to protect user privacy.
-
- - Built a real-time chat system using Firebase.
-
- - Worked with image and video uploads using Firebase Storage.
-
- - Improved debugging, problem-solving, and real-world project skills.
 
 ## 🛠️ Tech Stack
 
