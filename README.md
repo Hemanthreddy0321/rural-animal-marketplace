@@ -102,23 +102,28 @@ This project aims to empower rural sellers, reduce dependency on brokers, and ma
 
  - Real-time listeners enable instant chat and request updates
 
-## 📸 Output 
 
-### 🏠 Home Page
+## 🎥 Demo Video 
 
-![alt text](image.png)
+ - This demo video showcases the complete flow of the 🐄 Rural Animal Marketplace application:
 
-### ➕ Sell Animal Page
+ - Home Screen – Displays available animals for sale with images and basic details.
 
-![alt text](image-1.png)
+ - Sell Animal Page – Sellers can add animal details, upload images, and list animals for sale.
 
-### 🐾 Animal Details
+ - Requests Section – Buyers can send requests to sellers, and sellers can accept or reject requests.
 
-![alt text](image-3.png)
+ - Secure Chat – Once a request is accepted, buyers and sellers can chat directly inside the app.
 
-### 📄 Requests Page
+ - Profile Page – Users can view and update their personal information.
 
-![alt text](image-2.png)
+   The video demonstrates how the platform simplifies animal trading by bringing buyers and sellers together through a secure and user-friendly digital marketplace.
+
+
+https://github.com/user-attachments/assets/4bae09d4-5fb7-491e-9f3c-d7d334e05d5a
+
+
+
 
 
 ## 🤝 Conclusion
