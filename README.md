@@ -12,13 +12,13 @@ Instead of depending on middlemen or physical markets, sellers can list animals 
 
 The platform ensures:
 
-Controlled communication (only after request acceptance)
+ - Controlled communication (only after request acceptance)
 
-Price privacy until seller approval
+ - Price privacy until seller approval
 
-Secure authentication using mobile number login
+ - Secure authentication using mobile number login
 
-A smooth experience on both desktop and mobile devices
+ - A smooth experience on both desktop and mobile devices
 
 This project aims to empower rural sellers, reduce dependency on brokers, and make animal trading more transparent and efficient.
 
@@ -50,33 +50,41 @@ This project aims to empower rural sellers, reduce dependency on brokers, and ma
 
 ## 📘 What I Learned
 
-Built a full-stack web application using React and Firebase.
+ - Built a full-stack web application using React and Firebase.
 
-Learned React fundamentals like components, hooks, routing, and state management.
+ - Learned React fundamentals like components, hooks, routing, and state management.
 
-Designed and managed Firestore databases (users, animals, requests, chats).
+ - Designed and managed Firestore databases (users, animals, requests, chats).
 
-Implemented authentication & role-based access control (buyer vs seller).
+ - Implemented authentication & role-based access control (buyer vs seller).
 
-Developed a request-based buying system to protect user privacy.
+ - Developed a request-based buying system to protect user privacy.
 
-Built a real-time chat system using Firebase.
+ - Built a real-time chat system using Firebase.
 
-Worked with image and video uploads using Firebase Storage.
+ - Worked with image and video uploads using Firebase Storage.
 
-Improved debugging, problem-solving, and real-world project skills.
+ - Improved debugging, problem-solving, and real-world project skills.
 
 ## 🛠️ Tech Stack
 
-Frontend: React.js, HTML, CSS, JavaScript
+## Frontend: 
+  - React.js
+  - HTML
+  -  CSS
+  -  JavaScript
 
-Backend & Database: Firebase Firestore
+## Backend & Database:
+ - Firebase Firestore
 
-Authentication: Firebase Authentication (Phone Login)
+## Authentication:
+ - Firebase Authentication (Phone Login)
 
-Storage: Firebase Storage (Images & Videos)
+## Storage:
+ - Firebase Storage (Images & Videos)
 
-Real-time Features: Firebase Realtime Updates (Chat & Requests)
+## Real-time Features: 
+ - Firebase Realtime Updates (Chat & Requests)
 
 ## 🏗️ Architecture Diagram
 ![alt text](<Image (2).png>)
@@ -84,15 +92,15 @@ Real-time Features: Firebase Realtime Updates (Chat & Requests)
 
 ## 🔍 How it Works 
 
-React Frontend handles UI and user interactions
+ - React Frontend handles UI and user interactions
 
-Firebase Authentication manages secure phone-based login
+ - Firebase Authentication manages secure phone-based login
 
-Firestore Database stores animals, requests, users, and chat data
+ - Firestore Database stores animals, requests, users, and chat data
 
-Firebase Storage stores images and videos of animals
+ - Firebase Storage stores images and videos of animals
 
-Real-time listeners enable instant chat and request updates
+ - Real-time listeners enable instant chat and request updates
 
 ## 📸 Output 
 
@@ -104,7 +112,7 @@ Real-time listeners enable instant chat and request updates
 
 ![alt text](image-1.png)
 
-Animal Details
+### 🐾 Animal Details
 
 ![alt text](image-3.png)
 
